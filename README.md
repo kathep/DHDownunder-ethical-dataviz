@@ -130,6 +130,7 @@
             </li>
             <hr>
             <li><strong><em>10 minutes: </em></strong><em>Break</em></li>
+            <hr>
             <li><strong><em>20-45 minutes: </em></strong><em>Lecture: </em>Historicizing visualization &mdash; narrative and graphic visualization conventions through history</li>
     <li><strong><em>60 minutes:</em></strong> <em>Lecture &amp; Discussion:</em> Ethical Visualization Workflow</li>
         </ul>
