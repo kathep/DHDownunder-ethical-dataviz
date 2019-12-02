@@ -55,19 +55,20 @@
                 </ul>
             </li>
         </ul>
-        <hr>
-        <h4>12:30pm to 1:30pm: Lunch</h4>
-        <hr>
-        <h3>Afternoon 1: Treacherous Visualizations</h3>
-        <h4>1:30 to 5:00 (3.5 hours)</h4>
-        <ul>
-            <li><strong><em>60 minutes: </em></strong><em>Lecture &amp; Discussion: Statistics</em>
-                <ul>
+     </ul>
+     <hr>
+     <h4>12:30pm to 1:30pm: Lunch</h4>
+     <hr>
+     <h3>Afternoon 1: Treacherous Visualizations</h3>
+     <h4>1:30 to 5:00 (3.5 hours)</h4>
+     <ul>
+       <li><strong><em>60 minutes: </em></strong><em>Lecture &amp; Discussion: Statistics</em>
+          <ul>
                     <li><a href="https://mathwithbaddrawings.com/2016/07/13/why-not-to-trust-statistics/">com/2016/07/13/why-not-to-trust-statistics</a></li>
-                </ul>
-            </li>
-            <hr>
+          </ul>
+       </li>
         </ul>
+            <hr>
       <li><strong><em>20 minutes:</em></strong> Break</li>
             <hr>
       <li><strong><em>40 minutes: </em></strong><em>The Dark Arts and </em>Good, Bad, and Ugly Activity: <em>Examples and discussion: </em>Exploring Sample Visualizations &mdash;Best and worst practices</li>
