@@ -119,9 +119,9 @@
                         <li>Take turns presenting your work, and state: what your malicious intent was, what you were happy with about the work, what you would would have done differently if you had more time and/or skills</li>
                     </ul>
                     <li><em>10 minute discussion of other versions</em></li>
-
                 </ul>
             </li>
+            <hr>
             <li><strong><em>10 minutes: </em></strong><em>Break</em></li>
             <li><strong><em>20-45 minutes: </em></strong><em>Lecture: </em>Historicizing visualization &mdash; narrative and graphic visualization conventions through history</li>
             <li><em>60 minutes:</em> Ethical Visualization Workflow</li>
