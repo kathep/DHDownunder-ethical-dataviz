@@ -3,6 +3,7 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
 <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. ------
+<hr>
 <h1>Syllabus, Taming Treacherous Data, DHDownunder 2019, Newcastle, Australia</h1>
 <h2>Day 1: Pitfalls of Visualizations</h2>
 <h3>Morning 1: Designed Arguments</h3>
@@ -27,7 +28,9 @@
             <li><em>Introduction to Data Visualization: visual conventions &amp; first principles &mdash; Visual hierarchy, legibility, and color</em></li>
         </ul>
     </li>
+    <hr>
     <li><strong><em>20 minutes:</em></strong> Break</li>
+    <hr>
     <li><strong><em>60 minutes: </em></strong><em>Lecture and discussion:</em>
         <ul>
             <li><em>Arguments in Visualizations: implicit &amp; explicit</em></li>
@@ -63,7 +66,9 @@
                     <li><a href="https://mathwithbaddrawings.com/2016/07/13/why-not-to-trust-statistics/">com/2016/07/13/why-not-to-trust-statistics</a></li>
                 </ul>
             </li>
+            <hr>
             <li><strong><em>20 minutes:</em></strong> Break</li>
+            <hr>
             <li><strong><em>40 minutes: </em></strong><em>The Dark Arts and </em>Good, Bad, and Ugly Activity: <em>Examples and discussion: </em>Exploring Sample Visualizations &mdash;Best and worst practices</li>
             <li><strong><em>120 minutes: </em></strong><em>Discussion &amp; Activity: Making your first treacherous data visualization</em>
                 <ul>
@@ -138,7 +143,9 @@
                     <li>40 minute whole class discussion</li>
                 </ul>
             </li>
+            <hr>
             <li><strong><em>20 minutes: </em></strong><em>Break</em></li>
+            <hr>
             <li><strong><em>60 minutes: </em></strong><em>Ensuring Ethical Use of Data</em>
                 <ul>
                     <li><strong><em>30 minutes: </em></strong>Documentation: Introducting Memos of Understanding and Position Statemments: <a href="http://www.monroeworktoday.org/extras/files/MOU.pdf">Memos of Understanding</a></li>
