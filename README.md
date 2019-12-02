@@ -67,9 +67,10 @@
                 </ul>
             </li>
             <hr>
-            <li><strong><em>20 minutes:</em></strong> Break</li>
+        </ul>
+      <li><strong><em>20 minutes:</em></strong> Break</li>
             <hr>
-            <li><strong><em>40 minutes: </em></strong><em>The Dark Arts and </em>Good, Bad, and Ugly Activity: <em>Examples and discussion: </em>Exploring Sample Visualizations &mdash;Best and worst practices</li>
+      <li><strong><em>40 minutes: </em></strong><em>The Dark Arts and </em>Good, Bad, and Ugly Activity: <em>Examples and discussion: </em>Exploring Sample Visualizations &mdash;Best and worst practices</li>
             <li><strong><em>120 minutes: </em></strong><em>Discussion &amp; Activity: Making your first treacherous data visualization</em>
                 <ul>
                     <li><em>10 minute Discussion: </em>
