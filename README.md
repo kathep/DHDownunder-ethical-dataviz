@@ -119,7 +119,7 @@
                     <li><em>15 minute visual arguments and treachery reflection group discussion</em></li>
                 </ul>
             </li>
-            <li><em>55-70 minutes: Show &amp; tell yesterday's work </em>
+    <li><strong><em>55-70 minutes:</em></strong><em> Show &amp; tell yesterday's work </em>
                 <ul>
                     <li><em>45-60 minutes: Snow &amp; Ice and Gun Deaths analog and digital visualizations</em></li>
                     <ul>
