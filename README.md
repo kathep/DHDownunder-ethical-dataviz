@@ -28,11 +28,9 @@
             <li><em>Introduction to Data Visualization: visual conventions &amp; first principles &mdash; Visual hierarchy, legibility, and color</em></li>
         </ul>
     </li>
-    </ul>
     <hr>
-    <h4><strong><em>20 minutes:</em></strong> Break</h4>
+    <li><strong><em>20 minutes:</em></strong> Break</li>
     <hr>
-    <ul>
     <li><strong><em>60 minutes: </em></strong><em>Lecture and discussion:</em>
         <ul>
             <li><em>Arguments in Visualizations: implicit &amp; explicit</em></li>
