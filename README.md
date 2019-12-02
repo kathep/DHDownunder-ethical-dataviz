@@ -155,7 +155,7 @@
                     <li><strong><em>30 minutes: </em></strong><em>Activity: </em>Writing 500-1000 word position statements on your own visualization practice, based on socio-cultural considerations of their subject and audience.</li>
                 </ul>
             </li>
-            <li><strong><em>40 minutes: </em></strong><em>Activity:</em> Creating ethical visualizations of your own data
+            <li><strong><em>30 minutes: </em></strong><em>Activity:</em> Creating ethical visualizations of your own data
                 <ul>
                     <li>Use the graph paper and stock visualization codes in RStudio Cloud to create your first ethical visualizations of your own data. Some resources:</li>
                     <ul>
