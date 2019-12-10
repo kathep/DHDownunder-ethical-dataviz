@@ -25,7 +25,7 @@
 
 # The below line 'calls' a table, or data frame (df stands for Data Frame) 
 # sourced from the FLORIDA DEPARTMENT OF LAW ENFORCEMENT.
-df <- read.csv("https://github.com/cmchurch/DHDownunder-ethical-viz/raw/master/public_data/gun-deaths_florida_full_1971-2016.csv",
+df <- read.csv("https://github.com/kathep/DHDownunder-ethical-dataviz/raw/master/public_data/gun-deaths_florida_full_1971-2016.csv",
                header=T,stringsAsFactors = F,as.is=T)
 
 #-----------------------------------------------------------------------------------------------
@@ -76,7 +76,8 @@ g <- ggplot(
     #referring the y axis to 'Y' specified above
     y=Y+Y2,
     test
-  ))
+    )
+  )
 
 #------------------------------------------------------------------------------------------------
 
@@ -112,6 +113,15 @@ else if (plottype=="line") {
       geom_point(size=point_size) 
   } 
 } 
+
+#################################################################################
+#                                                                               #
+#    THINGS TO EXPERIMENT WITH IN THIS SECTION                                  #
+#  - Choose whether to display the data as a line chart or a bar chart by       #
+#    changing the text after 'plottype'                                         #
+#                                                                               #
+#################################################################################
+
 
 #------------------------------------------------------------------------------------------------
 
@@ -189,11 +199,13 @@ g = g + theme_bw() +
     #[options: Helvetica, Arial, Arial Narrow, Times New Roman]
     base_family = "Helvetica",
     base_size = 15,
-    #setting the title visual elements 
+    #setting the title visual appearance
+    #'element_text' is the command that controls visual appearance of text 
+    #(color, font, size etc)
     #(font size = size; font weight = face; )
     #[options: "plain", "italic", "bold", "bold.italic"]; leading = lineheight; 
     #vertical spacing before [t] and after [b])
-    plot.title = element_text(size=15, lineheight = 80, ),
+    plot.title = element_text(size=20, lineheight = 80, face="italic"),
     plot.subtitle = element_text(size=12, lineheight = 80),
     text = element_text(size=15),
     plot.caption = element_text(size=40),
@@ -208,17 +220,17 @@ g = g + theme(
 # 9. SPECIFYING DATA APPEARANCES AND STYLES
 
 draw_scatter_line = T         #setting for scatter plot, set to T to draw line
-draw_scatter_points=F         #setting for scater plot, set to T to draw points
-draw_scatter_fill = F         #setting for scatter plot, 
-fill_color = "darkred"         #color to fill the area for both scatter and box, suggest="darkred"
+draw_scatter_points=T         #setting for scater plot, set to T to draw points
+draw_scatter_fill = T         #setting for scatter plot, 
+fill_color = "darkred"        #color to fill the area for both scatter and box, default is "darkred"
 fill_transparency = 0.75      #scale of 0 to 1 (suggest 0.75), for both scatter and box
-point_size = 1                #how big do you want the size of the size of the points?, default is 1
+point_size = 5                #how big do you want the size of the size of the points?, default is 1
 line_width = 1                #how big do you want the size of the line width?, default is 1
 
 
 #------------------------------------------------------------------------------------------------
 
-# 9. DARK ARTS - USE AT YOUR OWN PERIL!
+# 10. DARK ARTS - USE AT YOUR OWN PERIL!
 
 inverse_y_scale = F           #SET TO T TO INVERT THE Y-AXIS, SET F TO NOT INVERT
 
@@ -238,7 +250,7 @@ if(inverse_y_scale==T) { g = g + scale_y_reverse(limits = c(y_max,0),expand = c(
 
 #------------------------------------------------------------------------------------------------
 
-# 10. ADDING EXTRA LINES FOR DATA INTO THE CHART
+# 11. ADDING EXTRA LINES FOR DATA INTO THE CHART
 
 g = g + geom_line(aes(x=X,y=Y,color="Total Murders"))
 #g = g + geom_line(aes(x=X,y=Y2,color="Murders with Handgun"))
@@ -254,7 +266,7 @@ g = g + geom_line(aes(x=X,y=Y,color="Total Murders"))
 
 #------------------------------------------------------------------------------------------------
 
-# 10. TELLING R TO DRAW EVERYTHING YOU JUST SPECIFIED
+# 12. TELLING R TO DRAW EVERYTHING YOU JUST SPECIFIED
 
 # the final 'g' runs the plot
 g
