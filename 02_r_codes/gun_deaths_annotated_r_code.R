@@ -25,7 +25,7 @@
 
 # The below line 'calls' a table, or data frame (df stands for Data Frame) 
 # sourced from the FLORIDA DEPARTMENT OF LAW ENFORCEMENT.
-df <- read.csv("https://github.com/kathep/DHDownunder-ethical-dataviz/raw/master/public_data/gun-deaths_florida_full_1971-2016.csv",
+df <- read.csv("https://github.com/kathep/DHDownunder-ethical-dataviz/raw/master/03_public_data/gun-deaths_florida_full_1971-2016.csv",
                header=T,stringsAsFactors = F,as.is=T)
 
 #-----------------------------------------------------------------------------------------------
@@ -74,10 +74,9 @@ g <- ggplot(
     #referring the x axis to 'X' specified above
     x=X,
     #referring the y axis to 'Y' specified above
-    y=Y+Y2,
-    test
-    )
+    y=Y#+Y2
   )
+)
 
 #------------------------------------------------------------------------------------------------
 
@@ -163,7 +162,7 @@ point_label = "Title"
 #TITLES and LABELS
 g = g + labs(
   #title of the Plot
-  title="Title",
+  title="Defending Homes and Houses",
   #subtitle of plot
   subtitle="Subtitle",
   caption="Caption")+
@@ -224,7 +223,7 @@ draw_scatter_points=T         #setting for scater plot, set to T to draw points
 draw_scatter_fill = T         #setting for scatter plot, 
 fill_color = "darkred"        #color to fill the area for both scatter and box, default is "darkred"
 fill_transparency = 0.75      #scale of 0 to 1 (suggest 0.75), for both scatter and box
-point_size = 5                #how big do you want the size of the size of the points?, default is 1
+point_size = 1                #how big do you want the size of the size of the points?, default is 1
 line_width = 1                #how big do you want the size of the line width?, default is 1
 
 
