@@ -90,9 +90,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 * _10 minute Discussion:_
   - Snow and Ice:
-    + ![BBC](https://github.com/cmchurch/DHSI-ethical-dataviz/blob/master/images/snow-ice_BBC.jpg)
-    + ![Image description](link-to-image)
-    + [RAC](https://www.rac.co.uk/drive/advice/learning-to-drive/stopping-distances/)
+    + ![BBC](https://github.com/kathep/DHDownunder-ethical-dataviz/blob/master/06_images/snow_ice_BBC.jpg)
+    + ![RAC](https://github.com/kathep/DHDownunder-ethical-dataviz/blob/master/06_images/Stopping_distances_RAC.jpg)
   - What is ethical and unethical about this chart?
   - What are the limits of ethics in this visualization context?
 * _45 minute Analog activity, in pairs:_
