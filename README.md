@@ -58,6 +58,11 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 * **_60 minutes:_** _Lecture & Discussion: Statistics_
   - [com/2016/07/13/why-not-to-trust-statistics](https://mathwithbaddrawings.com/2016/07/13/why-not-to-trust-statistics/)
 
+* **_55-70 minutes:_** _Show & tell yesterday's work_
+  - _45-60 minutes: Snow & Ice and Gun Deaths analog and digital visualizations_
+    + Take turns presenting your work, and state: what your malicious intent was, what you were happy with about the work, what you would would have done differently if you had more time and/or skills
+  - _10 minute discussion of other versions_
+
 ***
 
 * **_20 minutes:_** Break
@@ -66,7 +71,23 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 * **_40 minutes:_** _The Dark Arts and_Good, Bad, and Ugly Activity: _Examples and discussion:_Exploring Sample Visualizations —Best and worst practices
 
-* **_120 minutes:_** _Discussion & Activity: Making your first treacherous data visualization_
+### Optional After-Class Reading
+
+* Hepworth, K. J., "Big Data Visualisation: Promises and Pitfalls". _Communication Design Quarterly_. 4(4), 7–19.
+
+***
+
+## Day 2: Promise of Ethical Visualization
+
+### Morning 2: Introducing Ethical Visualization
+
+#### 9:00am - 12pm (3 hours)
+
+* **_25 minutes:_** _Integration_
+  - _10 minute IMPROV pass the sound activity_
+  - _15 minute visual arguments and treachery reflection group discussion_
+  
+* **_120 minutes:_** _Discussion & Activity: Making your first ethical data visualization_
 
 * _10 minute Discussion:_
   - Snow and Ice:
@@ -86,25 +107,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 ***
 
-### Optional After-Class Reading
-
-* Hepworth, K. J., "Big Data Visualisation: Promises and Pitfalls". _Communication Design Quarterly_. 4(4), 7–19.
-
-***
-
-## Day 2: Promise of Ethical Visualization
-
-### Morning 2: Introducing Ethical Visualization
-
-#### 9:00am - 12pm (3 hours)
-
-* **_25 minutes:_** _Integration_
-  - _10 minute IMPROV pass the sound activity_
-  - _15 minute visual arguments and treachery reflection group discussion_
-* **_55-70 minutes:_** _Show & tell yesterday's work_
-  - _45-60 minutes: Snow & Ice and Gun Deaths analog and digital visualizations_
-    + Take turns presenting your work, and state: what your malicious intent was, what you were happy with about the work, what you would would have done differently if you had more time and/or skills
-  - _10 minute discussion of other versions_
 
 ***
 
