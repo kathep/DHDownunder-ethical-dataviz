@@ -83,19 +83,23 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 #### 9:00am - 12pm (3 hours)
 
 * **_25 minutes:_** _Integration_
-  - _10 minute IMPROV pass the sound activity_
+  - _5 minute group check-in re energy levels and activities for today_
   - _15 minute visual arguments and treachery reflection group discussion_
   
 * **_120 minutes:_** _Discussion & Activity: Making your first ethical data visualization_
 
-* _10 minute Discussion:_
-  - Snow and Ice:
+* _10 minute Discussion, in pairs:_
+  - Study the following two charts:
     + ![BBC](https://github.com/kathep/DHDownunder-ethical-dataviz/blob/master/06_images/snow_ice_BBC.jpg)
     + ![RAC](https://github.com/kathep/DHDownunder-ethical-dataviz/blob/master/06_images/Stopping_distances_RAC.jpg)
-  - What is ethical and unethical about this chart?
-  - What are the limits of ethics in this visualization context?
+  - What is ethical and unethical about these charts?
+  - Why?
+  - Write list of (or sketch) useful/ethical qualities in these charts you might want to reproduce
 * _45 minute Analog activity, in pairs:_
-  - Discuss what specific design decisions would improve this chart to make it more unethical, and then more ethical
+  - Use the steps and questions in the ethical visualization handout to recreate this chart with pens and paper (refer to the [ethical visualization workflow handout](https://github.com/kathep/DHDownunder-ethical-dataviz/blob/master/06_images/snow_ice_BBC.jpg) for more detail)
+    + Choose an audience to communicate data about stopping distances and a goal for this audience
+    + Decide on changes/additions/substractions to data/images/captions appropriate for this audience
+    + Choose a media and format appropriate for communicating this data to your audience
   - Recreate this chart on graph paper to demonstrate your decisions
 * _60 minute Digital activity, in pairs:_
   - Open RStudio Cloud (https://rstudio.cloud) and log in
@@ -103,9 +107,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
   - Copy the R code from:[https://github.com/cmchurch/DHSI-ethical-dataviz/tree/master/r-code](https://github.com/cmchurch/DHSI-ethical-dataviz/tree/master/r-code)
   - Paste code into your new project
   - With guidance from instructors, edit code to make the chart more unethical, then more ethical
-
-***
-
 
 ***
 
