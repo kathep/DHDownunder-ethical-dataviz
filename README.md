@@ -96,7 +96,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
   - Why?
   - Write list of (or sketch) useful/ethical qualities in these charts you might want to reproduce
 * _45 minute Analog activity, in pairs:_
-  - Use the steps and questions in the ethical visualization handout to recreate this chart with pens and paper (refer to the [ethical visualization workflow handout](https://github.com/kathep/DHDownunder-ethical-dataviz/blob/master/06_images/snow_ice_BBC.jpg) for more detail)
+  - Use the steps and questions in the ethical visualization handout to recreate this chart with pens and paper (refer to the [ethical visualization workflow handout](https://github.com/kathep/DHDownunder-ethical-dataviz/blob/master/04_handouts/ethical_visualization_workflow_poster_2.1.pdf) for more detail)
     + Choose an audience to communicate data about stopping distances and a goal for this audience
     + Decide on changes/additions/substractions to data/images/captions appropriate for this audience
     + Choose a media and format appropriate for communicating this data to your audience
