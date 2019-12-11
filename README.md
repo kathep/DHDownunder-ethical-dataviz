@@ -1,7 +1,6 @@
 # DHDownunder-ethical-dataviz 
 Resources for the course, 'Taming Treacherous Data: Ethical Data Visualization', by Katherine Hepworth. This course is taught at DHDownunder. This course teaches participants how to use ethical visualization principles and practices to visualize treacherous, or culturally problematic, data. Such data includes racist historical documents, ideologically laden materials, culturally controversial texts, politically charged topics, gendered works, etc. Aimed at people who work with culturally sensitive datasets, and those who are interested in critical reflection on visualization practice, the course will combine hands-on activities and discussion. Participants will create data visualizations using R Studio Cloud and instructor-provided stock code, and then interrogate their visualizations, identifying the extent and severity of the ethical pitfalls they inevitably contain. All work herein is available under a Creative Commons license.
 
-<br>
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) . ------
 
 ***
@@ -91,7 +90,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 * _10 minute Discussion:_
   - Snow and Ice:
-    + [BBC](https://github.com/cmchurch/DHSI-ethical-dataviz/blob/master/images/snow-ice_BBC.jpg)
+    + ![BBC](https://github.com/cmchurch/DHSI-ethical-dataviz/blob/master/images/snow-ice_BBC.jpg)
+    + ![Image description](link-to-image)
     + [RAC](https://www.rac.co.uk/drive/advice/learning-to-drive/stopping-distances/)
   - What is ethical and unethical about this chart?
   - What are the limits of ethics in this visualization context?
