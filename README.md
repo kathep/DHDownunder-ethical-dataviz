@@ -52,7 +52,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 ### Afternoon 1: Treacherous Visualizations
 
-#### 1:30 to 5:00 (3.5 hours)
+#### 1:30 to 5:00 (3 hours plus break)
 
 * **_60 minutes:_** _Lecture & Discussion: Statistics_
   - [com/2016/07/13/why-not-to-trust-statistics](https://mathwithbaddrawings.com/2016/07/13/why-not-to-trust-statistics/)
@@ -69,6 +69,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 ***
 
 * **_40 minutes:_** _The Dark Arts and_Good, Bad, and Ugly Activity: _Examples and discussion:_Exploring Sample Visualizations —Best and worst practices
+* **_60 minutes:_** _Lecture & Discussion:_ Ethical Visualization Workflow
+
 
 ### Optional After-Class Reading
 
@@ -113,12 +115,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 ***
 
-* **_30 minutes:_** _Break_
-
-***
-
-* **_20-45 minutes:_** _Lecture:_Historicizing visualization — narrative and graphic visualization conventions through history
-* **_60 minutes:_** _Lecture & Discussion:_ Ethical Visualization Workflow
+##### **_30 minutes:_** _Break (sometime during the morning)_
 
 ***
 
@@ -128,22 +125,30 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 ### Afternoon 2: Taming Treacherous Data
 
-#### 1:30pm to 5:00pm (3 hours with break)
+#### 1:30pm to 5:00pm (3 hours plus break)
 
-* **_100 minutes:_** _Visual exploration activity & discussion:_ Exploring and discussing [Racial Terror Lynchings](https://lynchinginamerica.eji.org/explore) and [Map of White Supremacist Mob Violence](http://www.monroeworktoday.org/explore/) compare with Racial Terror Lynchings
-  - 35 minute pair discussion & exploration
-  - 40 minute whole class discussion
-
+* **_30 minutes:_** _Show Your Work Document_
+  - Create a document to show the ethical decisions you made during your visualization process in snow and ice. Sections to include:
+    + Audience and goal
+      In a sentence summarize ie "This viusalizaiton was designed for..."
+    + Data sources
+      List your data sources (and links). Describe why they were appropriate.
+    + Data supplementation/cleaning/verification
+      Describe in a sentence any calculation processes performed.
+    + Sketches/concepts explored
+    + Ethics disclaimer/request for corrections
+      Something along the lines of "This data is represented as accurately and ethically to our best knowledge. If you know of more up-to-date data or ethical representations, please share them with us at: <email address>."
 ***
 
-* **_30 minutes:_** _Break_
+##### **_30 minutes:_** _Break_
 
 ***
 
 * **_60 minutes:_** _Ensuring Ethical Use of Data_
   - **_30 minutes:_**Documentation: Introducting Memos of Understanding and Position Statemments:[Memos of Understanding](http://www.monroeworktoday.org/extras/files/MOU.pdf)
   - **_30 minutes:_** _Activity:_Writing 500-1000 word position statements on your own visualization practice, based on socio-cultural considerations of their subject and audience.
-* **_30 minutes:_** _Show and tell:_ Presenting your ethical visualizations 
+  
+* **_60 minutes:_** _Show and tell:_ Presenting your ethical visualizations 
   - Use the graph paper and stock visualization codes in RStudio Cloud to create your first ethical visualizations of your own data. Some resources:
     + [Core principles of data visualization](https://policyviz.com/2018/08/07/dataviz-cheatsheet/)
     + [Chart type suggestions](https://datavizcatalogue.com/)
