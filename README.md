@@ -80,37 +80,40 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 ### Morning 2: Introducing Ethical Visualization
 
-#### 9:00am - 12pm (3 hours)
+#### 9:00am - 12:30pm (3 hours, plus break)
 
-* **_25 minutes:_** _Integration_
+* **_10 minutes:_** _Integration_
   - _5 minute group check-in re energy levels and activities for today_
-  - _15 minute visual arguments and treachery reflection group discussion_
+  - _5 minute visual arguments and treachery reflection group discussion_
   
-* **_120 minutes:_** _Discussion & Activity: Making your first ethical data visualization_
+* **_180 minutes:_** _Discussion & Activity: Making your first ethical data visualization_
 
-* _10 minute Discussion, in pairs:_
+* _15 minute Discussion, in pairs:_
   - Study the following two charts:
     + ![BBC](https://github.com/kathep/DHDownunder-ethical-dataviz/blob/master/06_images/snow_ice_BBC.jpg)
     + ![RAC](https://github.com/kathep/DHDownunder-ethical-dataviz/blob/master/06_images/Stopping_distances_RAC.jpg)
   - What is ethical and unethical about these charts?
   - Why?
   - Write list of (or sketch) useful/ethical qualities in these charts you might want to reproduce
-* _45 minute Analog activity, in pairs:_
+* _60 minute Analog activity, in pairs:_
   - Use the steps and questions in the ethical visualization handout to recreate this chart with pens and paper (refer to the [ethical visualization workflow handout](https://github.com/kathep/DHDownunder-ethical-dataviz/blob/master/04_handouts/ethical_visualization_workflow_poster_2.1.pdf) for more detail)
     + Choose an audience to communicate data about stopping distances and a goal for this audience
     + Decide on changes/additions/substractions to data/images/captions appropriate for this audience
     + Choose a media and format appropriate for communicating this data to your audience
   - Recreate this chart on graph paper to demonstrate your decisions
-* _60 minute Digital activity, in pairs:_
+* _100 minute Digital activity, in pairs:_
+  - Recreate your visualization, using one of the following:
+    + R Studio Cloud with stock BBC Snow and Ice code, editing as necessary to get as close as possible to your drawing
+    + A more detailed handdrawn illustration, paying more careful attention to composition, color, text etc
+    + A digital version using graphics software, such as:
+      - Illustrator, (Autodraw.com)[https://www.autodraw.com/], (Sketch.io)[https://sketch.io/], Google Slides, (Canva)[https://www.canva.com] and/or a combination of these programs
   - Open RStudio Cloud (https://rstudio.cloud) and log in
-  - Create a new project in RStudio Cloud
-  - Copy the R code from:[https://github.com/cmchurch/DHSI-ethical-dataviz/tree/master/r-code](https://github.com/cmchurch/DHSI-ethical-dataviz/tree/master/r-code)
-  - Paste code into your new project
+  - Create a new project in [RStudio Cloud](https://rstudio.cloud/)
   - With guidance from instructors, edit code to make the chart more unethical, then more ethical
 
 ***
 
-* **_10 minutes:_** _Break_
+* **_30 minutes:_** _Break_
 
 ***
 
@@ -125,7 +128,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 ### Afternoon 2: Taming Treacherous Data
 
-#### 1:30pm to 5:00pm (3.5 hours)
+#### 1:30pm to 5:00pm (3 hours with break)
 
 * **_100 minutes:_** _Visual exploration activity & discussion:_ Exploring and discussing [Racial Terror Lynchings](https://lynchinginamerica.eji.org/explore) and [Map of White Supremacist Mob Violence](http://www.monroeworktoday.org/explore/) compare with Racial Terror Lynchings
   - 35 minute pair discussion & exploration
@@ -133,15 +136,16 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 ***
 
-* **_20 minutes:_** _Break_
+* **_30 minutes:_** _Break_
 
 ***
 
 * **_60 minutes:_** _Ensuring Ethical Use of Data_
   - **_30 minutes:_**Documentation: Introducting Memos of Understanding and Position Statemments:[Memos of Understanding](http://www.monroeworktoday.org/extras/files/MOU.pdf)
   - **_30 minutes:_** _Activity:_Writing 500-1000 word position statements on your own visualization practice, based on socio-cultural considerations of their subject and audience.
-* **_30 minutes:_** _Activity:_ Creating ethical visualizations of your own data
+* **_30 minutes:_** _Show and tell:_ Presenting your ethical visualizations 
   - Use the graph paper and stock visualization codes in RStudio Cloud to create your first ethical visualizations of your own data. Some resources:
-    + Chart Suggestions handout
-    + Color handout
+    + [Core principles of data visualization](https://policyviz.com/2018/08/07/dataviz-cheatsheet/)
+    + [Chart type suggestions](https://datavizcatalogue.com/)
+    + [Color tips](http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/)
 
