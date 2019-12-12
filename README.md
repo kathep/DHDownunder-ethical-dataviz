@@ -130,14 +130,19 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 * **_30 minutes:_** _Show Your Work Document_
   - Create a document to show the ethical decisions you made during your visualization process in snow and ice. Sections to include:
     + Audience and goal
-      In a sentence summarize ie "This viusalizaiton was designed for..."
+      - In a sentence summarize ie "This viusalizaiton was designed for..."
     + Data sources
-      List your data sources (and links). Describe why they were appropriate.
+      - List your data sources (and links). Describe why they were appropriate.
     + Data supplementation/cleaning/verification
-      Describe in a sentence any calculation processes performed.
+      - Describe in a sentence any calculation processes performed.
     + Sketches/concepts explored
+      - Describe development of visualization, including:
+        + number of versions/drafts
+        + number of rounds of user testing
+        + other conceptual directoins tried
+        + any other releant additions/directions
     + Ethics disclaimer/request for corrections
-      Something along the lines of "This data is represented as accurately and ethically to our best knowledge. If you know of more up-to-date data or ethical representations, please share them with us at: <email address>."
+      - Something along the lines of "This data is represented as accurately and ethically to our best knowledge. If you know of more up-to-date data or ethical representations, please share them with us at: <email address>."
 ***
 
 ##### **_30 minutes:_** _Break_
