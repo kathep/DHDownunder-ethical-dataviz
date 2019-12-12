@@ -127,7 +127,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 #### 1:30pm to 5:00pm (3 hours plus break)
 
-* **_30 minutes:_** _Show Your Work Document_
+* **_30 minutes:_** _Show Your Work Document for Snow and Ice Visualization_
   - Create a document to show the ethical decisions you made during your visualization process in snow and ice. Sections to include:
     + Audience and goal
       - In a sentence summarize ie "This viusalizaiton was designed for..."
